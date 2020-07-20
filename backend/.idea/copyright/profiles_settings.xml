@@ -1,0 +1,7 @@
+<component name="CopyrightManager">
+  <settings default="ficr">
+    <module2copyright>
+      <element module="All" copyright="ficr" />
+    </module2copyright>
+  </settings>
+</component>
